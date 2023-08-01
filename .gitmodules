@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bandit"]
-	path = bandit
-	url = https://github.com/cran/bandit
 [submodule "MultiJoin"]
 	path = MultiJoin
 	url = https://github.com/cran/MultiJoin
 [submodule "RapidPolygonLookup"]
 	path = RapidPolygonLookup
 	url = https://github.com/cran/RapidPolygonLookup
-[submodule "rfVarImpOOB"]
-	path = rfVarImpOOB
-	url = https://github.com/cran/rfVarImpOOB
 [submodule "RgoogleMaps"]
 	path = RgoogleMaps
 	url = https://github.com/cran/RgoogleMaps
+[submodule "bandit"]
+	path = bandit
+	url = https://github.com/cran/bandit
+[submodule "rfVarImpOOB"]
+	path = rfVarImpOOB
+	url = https://github.com/cran/rfVarImpOOB
